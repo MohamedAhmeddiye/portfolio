@@ -9,10 +9,10 @@ import oct from "../../assets/img/oct.png";
 import Fintech from "../../assets/icons/fin.png";
 import dataminIcon from "../../assets/icons/datamin.svg";
 import sheets from "../../assets/icons/sheets.png";
-import call from "../../assets/img/call.PNG";
-import cp from "../../assets/img/cp.PNG";
-import adv from "../../assets/img/adv.PNG"
-import meteo from "../../assets/img/meteo.PNG"
+import call from "../../assets/img/call.png";
+import cp from "../../assets/img/cp.png";
+import adv from "../../assets/img/adv.png"
+import meteo from "../../assets/img/meteo.png"
 import profilepicture from "../img/me21.png";
 import contacticon from "../../assets/icons/contact.svg";
 import workicon from "../../assets/icons/work.svg";
