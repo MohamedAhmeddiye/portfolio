@@ -9,10 +9,10 @@ import oct from "../../assets/img/oct.png";
 import Fintech from "../../assets/icons/fin.png";
 import dataminIcon from "../../assets/icons/datamin.svg";
 import sheets from "../../assets/icons/sheets.png";
-import call from "../../assets/img/hr.jpg";
-import cp from "../../assets/img/hr.jpg";
-import adv from "../../assets/img/hr.jpg"
-import meteo from "../../assets/img/hr.jpg"
+import call from "../../assets/img/call.jpg";
+import cp from "../../assets/img/cp.jpg";
+import adv from "../../assets/img/adv.jpg"
+import meteo from "../../assets/img/meteo.jpg"
 import profilepicture from "../img/me21.png";
 import contacticon from "../../assets/icons/contact.svg";
 import workicon from "../../assets/icons/work.svg";
@@ -26,6 +26,7 @@ import cssicon from "../../assets/icons/cssicon.svg";
 import javascripticon from "../../assets/icons/javascripticon.svg";
 import iaicon from "../../assets/icons/AI.svg";
 import sage from "../../assets/icons/sage.png";
+import odoo from "../../assets/icons/odoo.png";
 import MS from "../../assets/img/MS.png";
 import roicon from "../../assets/img/RO.png";
 import apiicon from "../../assets/img/API.png";
@@ -315,10 +316,16 @@ export const skillsDataCMS = [
         color: "#004aad" 
       },
       { 
-        title: "Sage",
+        title: "Sage Comptabilite",
         hash: "#Sage)",
         icon: sage, 
         color: "#00d639" 
+      },
+      { 
+        title: "Odoo",
+        hash: "#odoo)",
+        icon: odoo, 
+        color: "#a24689" 
       },
       
       
