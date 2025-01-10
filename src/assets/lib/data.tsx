@@ -9,10 +9,10 @@ import oct from "../../assets/img/oct.png";
 import Fintech from "../../assets/icons/fin.png";
 import dataminIcon from "../../assets/icons/datamin.svg";
 import sheets from "../../assets/icons/sheets.png";
-import call from "../../assets/img/call.png";
-import cp from "../../assets/img/cp.png";
-import adv from "../../assets/img/adv.png"
-import meteo from "../../assets/img/meteo.png"
+import call from "../../assets/img/hr.jpg";
+import cp from "../../assets/img/hr.jpg";
+import adv from "../../assets/img/hr.jpg"
+import meteo from "../../assets/img/hr.jpg"
 import profilepicture from "../img/me21.png";
 import contacticon from "../../assets/icons/contact.svg";
 import workicon from "../../assets/icons/work.svg";
@@ -267,13 +267,13 @@ export const skillsDataDesign = [
         title: "Looker Studio", 
         hash: "#Looker Studio", 
         icon: looker, 
-        color: "#6fe9b8"
+        color: "#4285f4"
        },
        {
         title: "Google Sheets", 
         hash: "#Google Sheets", 
         icon: sheets, 
-        color: "#a6a6a6"
+        color: "#28b446"
        }
     ],
   },
@@ -288,13 +288,13 @@ export const skillsDataCMS = [
         title: "Finance Modeling",
         hash: "#Finance Modeling",
         icon: fM,
-        color: "#61DAFB",
+        color: "#ffc729",
       },
       {
         title: "Fintech",
         hash: "#fin",
         icon: Fintech,
-        color: "#e7150e",
+        color: "#165c92",
       },
       {
         title: "Data Mining",
@@ -306,7 +306,7 @@ export const skillsDataCMS = [
         title: "Octopus Microfinance",
         hash: "#Octopus Microfinance",
         icon: oct,
-        color: "#f6f612",
+        color: "#ffffff",
       },
       { 
         title: "Intelligence Artificielle (IA)",
@@ -318,7 +318,7 @@ export const skillsDataCMS = [
         title: "Sage",
         hash: "#Sage)",
         icon: sage, 
-        color: "#eead05" 
+        color: "#00d639" 
       },
       
       
