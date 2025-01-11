@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /login/
+Allow: /public/
+Allow: /blog/
+Sitemap: https://medahmedportfolio.vercel.app/sitemap.xml
