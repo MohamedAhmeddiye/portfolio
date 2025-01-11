@@ -6,7 +6,7 @@ This is a portfolio website built using React, Tailwind CSS, and TypeScript. The
 
 
 
-You can also check out the live demo of the portfolio website [here](https://medahmed-portfolio.vercel.app/).
+You can also check out the live demo of the portfolio website [here](https://medahmedportfolio.vercel.app/).
 
 ## Features
 
