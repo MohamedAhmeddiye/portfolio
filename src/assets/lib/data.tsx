@@ -353,7 +353,7 @@ export const sideBarRightMail = {
 
 export const sideBarLeftSocials = [
   {
-    link: "https://www.linkedin.com/in/mohammed-ahmed-052769239",
+    link: "https://www.linkedin.com/in/mohamed-ahmed-coumba",
     icon: FiLinkedin,
     altimgname: "linkedin",
   },
